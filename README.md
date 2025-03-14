@@ -1,19 +1,13 @@
-# weather_app
+# Weather App🌤️
 
-A new Flutter project.
+Easy CRUD concept small application (Weather App) use for Mobile Application subject
 
-## Getting Started
+## Features✨
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Add weather list to your note
+- Delete weather list from your note
+- Edit a data  heat and moister
+- Get data show in  home screen
 
 ## Video test
-[video](https://drive.google.com/file/d/1WvaLu1t9EjCEDuKHEVyMA5rL4DuLnIGH/view?usp=sharing)
+[👉🏻 click to view video ᯓ★](https://drive.google.com/file/d/1WvaLu1t9EjCEDuKHEVyMA5rL4DuLnIGH/view?usp=sharing)
